@@ -33,6 +33,22 @@
 
 ## I have used REACT TOOLTIP , React Awesome REVEAL .
 
+## 1.Installation
+
+Run `npm install` to install project dependencies.
+
+## Usage
+
+Run `npm run dev` to run the project locally.
+
+
+
+
+
+
+
+
+
 ## GITHUB REPOSITORY LINK (CLIENT SIDE) : https://github.com/programming-hero-web-course2/b10-a10-client-side-Md-SayeedAlam
 
 
